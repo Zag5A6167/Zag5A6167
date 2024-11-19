@@ -1,15 +1,15 @@
 
 ###
 
-<h1 align="center">Hello World, Watch out!!! I'm Here!!! 👋</h1>
+<h1 align="center">Hello World, Watch out!!! I'm Here This is my world!!! 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  About Me?</h3>
 
 ###
 
-<p align="left">I'm Chakrit Kaewmoonmueang!!! you can call me Zag. <br><br>- 🔭 I’m Computer Engineering student.<br>- 📚 I'm currently learning C++, Competitive programing<br>- ⚡ In my free time I Workout</p><br><h1>I have only a basic understanding of programming and I'm trying to learn it on my own</h1>
+<p align="left">I'm Chakrit Kaewmoonmueang!!! you can call me Zag. <br><br>- 🔭 I’m Computer Engineering student.<br>- 📚 I'm currently learning C++, Competitive programing, about Software development, etc!!!.<br>- ⚡ In my free time I Workout, Reading a book about technology, Watch YouTube videos,  </p><br><h1>I have only a basic understanding of programming and I'm trying to learn it on my own</h1>
 
 ###
 
