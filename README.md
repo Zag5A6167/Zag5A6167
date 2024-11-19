@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 - Hi my name is Chakrit Kaewmoonmueang.😸
 - You can call me Zag
      I'm learning c++, competitive programming.
@@ -12,4 +12,4 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
