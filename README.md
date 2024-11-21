@@ -21,8 +21,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <p align="left">I'm Chakrit Kaewmoonmueang!!! you can call me Zag. <br><br>
 I started self-taught learning how to programming when i was 21 in 2021 , I'm majoring in Computer Engineering.<br>
 *   🌍  I'm based in Thailand.<br>
-*   🧠  I'm learning C++ ,Rust,Data structure, Algorithm,Electronic,Software       
-Development, Competitive programming.<br>
+*   🧠  I'm learning C++ ,Rust,Software Development, Competitive programming.<br>
 
 *   My hobbies are Reading,Studying,Drawing,Coding,Workout,Making how to programming video<a href="https://www.github.com/za12ew44zz" target="_blank" rel="noreferrer"><br>
                   
