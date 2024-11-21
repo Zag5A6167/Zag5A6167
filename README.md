@@ -9,25 +9,31 @@
 
 ###
 
-<p align="left">I'm Chakrit Kaewmoonmueang!!! you can call me Zag. <br><br>- 🔭 I’m Computer Engineering student.<br>- 📚 I'm currently learning C++, Competitive programing, about Software development, etc!!!.<br>- ⚡ In my free time I Workout, Reading a book about technology, Watch YouTube videos,  </p><br><h1>I have only a basic understanding of programming and I'm trying to learn it on my own</h1>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
-
-
-<h3 align="left">🔥   My Stats :</h3>
 
 
 
 
 
 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zag
+===========================================================================================================================
 
+<p align="left">I'm Chakrit Kaewmoonmueang!!! you can call me Zag. <br><br>
+I started self-taught learning how to programming when i was 21 in 2021 , I'm majoring in Computer Engineering.<br>
+*   🌍  I'm based in Thailand.<br>
+*   🧠  I'm learning C++ ,Rust,Data structure, Algorithm,Electronic,Software       
+Development, Competitive programming.<br>
+
+*   My hobbies are Reading,Studying,Drawing,Coding,Workout,Making how to programming video<a href="https://www.github.com/za12ew44zz" target="_blank" rel="noreferrer"><br>
+                  
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" /></a>
+                    </p>
+
+
+                  
+                    
+                 
 
 
 
