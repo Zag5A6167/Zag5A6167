@@ -23,8 +23,7 @@ I started self-taught learning how to programming, I'm majoring in Computer Engi
 *   🌍  I'm based in Thailand.<br>
 *   🧠  I'm learning C++, Software Development, CP.<br>
         "I'm thinking of studying Computer Science in the future...."<br>
-        I'm baby coder now!!!
-*   My hobbies are Reading,Studying,Drawing,Coding,Workout,Making how to programming video<a href="https://www.github.com/za12ew44zz" target="_blank" rel="noreferrer"><br>
+        I'm baby coder now!!!<br>
                   
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a></a><a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" /></a>
