@@ -18,7 +18,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zag
 ===========================================================================================================================
 
-<p align="left">I'm Chakrit Kaewmoonmueang!!! you can call me Zag. <br><br>
+<p align="left">I'm  Zag. <br><br>
 I started self-taught learning how to programming, I'm majoring in Computer Engineering.<br>
 *   🌍  I'm based in Thailand.<br>
 *   🧠  I'm learning C++, Software Development, CP.<br>
