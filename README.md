@@ -19,7 +19,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===========================================================================================================================
 
 <p align="left">I'm  Zag. <br><br>
-I started self-taught learning how to programming, I'm majoring in Computer Engineering.<br>
+I started self-taught learning how to programming in 2021, I'm majoring in Computer Engineering.<br>
 *   🌍  I'm based in Thailand.<br>
 *   🧠  I'm learning C++, Software Development, CP.<br>
         "I'm thinking of studying Computer Science in the future...."<br>
