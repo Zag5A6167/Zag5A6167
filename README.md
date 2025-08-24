@@ -2,10 +2,5 @@
 
 
 ![white_dog_idle](https://github.com/user-attachments/assets/a34a7958-11b0-45ed-93e0-7ccda5357819)
-![white_dog_idle](https://github.com/user-attachments/assets/a34a7958-11b0-45ed-93e0-7ccda5357819)
-![white_dog_idle](https://github.com/user-attachments/assets/a34a7958-11b0-45ed-93e0-7ccda5357819)
-![white_dog_idle](https://github.com/user-attachments/assets/a34a7958-11b0-45ed-93e0-7ccda5357819)
-![white_dog_idle](https://github.com/user-attachments/assets/a34a7958-11b0-45ed-93e0-7ccda5357819)
-![white_dog_idle](https://github.com/user-attachments/assets/a34a7958-11b0-45ed-93e0-7ccda5357819)
-![white_dog_idle](https://github.com/user-attachments/assets/a34a7958-11b0-45ed-93e0-7ccda5357819)
+
 
