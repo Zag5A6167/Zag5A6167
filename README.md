@@ -2,12 +2,6 @@
 
 
 
-![Coin](https://github.com/user-attachments/assets/80d4aa75-432d-4527-953c-0ff79ff6edc6)
-![Coin](https://github.com/user-attachments/assets/80d4aa75-432d-4527-953c-0ff79ff6edc6)
-![Coin](https://github.com/user-attachments/assets/80d4aa75-432d-4527-953c-0ff79ff6edc6)
-![Coin](https://github.com/user-attachments/assets/80d4aa75-432d-4527-953c-0ff79ff6edc6)
-![Coin](https://github.com/user-attachments/assets/80d4aa75-432d-4527-953c-0ff79ff6edc6)
-
 
 
 
