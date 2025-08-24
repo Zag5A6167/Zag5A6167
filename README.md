@@ -2,9 +2,18 @@
 
 
 ![white_dog_idle](https://github.com/user-attachments/assets/a34a7958-11b0-45ed-93e0-7ccda5357819)
+![Coin](https://github.com/user-attachments/assets/80d4aa75-432d-4527-953c-0ff79ff6edc6)
+![Coin](https://github.com/user-attachments/assets/80d4aa75-432d-4527-953c-0ff79ff6edc6)
+![Coin](https://github.com/user-attachments/assets/80d4aa75-432d-4527-953c-0ff79ff6edc6)
+![Coin](https://github.com/user-attachments/assets/80d4aa75-432d-4527-953c-0ff79ff6edc6)
+![Coin](https://github.com/user-attachments/assets/80d4aa75-432d-4527-953c-0ff79ff6edc6)
+![Coin](https://github.com/user-attachments/assets/80d4aa75-432d-4527-953c-0ff79ff6edc6)
 
 
-![ss](https://github.com/user-attachments/assets/a154c05f-9973-4f7d-a554-8b7481450163)
-![ball](https://github.com/user-attachments/assets/d3e89897-e96f-4711-9896-81371607cb10)
-![Barrel-damage](https://github.com/user-attachments/assets/56c8c528-61f7-4e2c-886d-c4244805ae3b)
-![skeleton_idle](https://github.com/user-attachments/assets/fe8b5d18-6721-46b7-99f6-4f5d4b36112a)
+
+
+
+
+![anim_player-atk](https://github.com/user-attachments/assets/2dd685a0-1be1-4604-8eb4-4bffd00c3c17)
+![Barrel-damage](https://github.com/user-attachments/assets/9c780895-0b2f-41f3-874f-fbdc5543d9a2)
+![skeleton_idle](https://github.com/user-attachments/assets/51f7d9c4-7764-431e-9f66-8a1a7852e8f2)
