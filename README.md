@@ -5,7 +5,7 @@
 </a>
 
 ### 🔗 Social Media
-| YouTube | Facebook |
+| YouTube Animations | Facebook Game |
 | :---: | :---: |
 | <a href="https://www.youtube.com/@zagbabako5253"><img src="https://github.com/user-attachments/assets/8bcba968-16fe-453b-bddd-bea4489954e2" width="256" height="256" alt="YouTube"></a> | <a href="https://www.facebook.com/profile.php?id=61575719904255"><img src="https://github.com/user-attachments/assets/0b4d29f7-c7f4-4220-828d-8d3270c27db6" width="256" height="256" alt="Facebook"></a> |
 
